@@ -1,0 +1,15 @@
+{
+    "comicBin": [
+        {
+            "issue": 1,
+            "name": "a",
+            "brand": "a"
+        },
+        {
+            "issue": 3,
+            "name": "c",
+            "brand": "c"
+        }
+    ],
+    "name": "Duncan's Collection"
+}

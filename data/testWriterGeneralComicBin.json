@@ -1,0 +1,15 @@
+{
+    "comicBin": [
+        {
+            "issue": 1,
+            "name": "Batman",
+            "brand": "DC Comics"
+        },
+        {
+            "issue": 1,
+            "name": "Iron Man",
+            "brand": "Marvel"
+        }
+    ],
+    "name": "My collection"
+}
